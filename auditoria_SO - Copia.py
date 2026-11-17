@@ -152,3 +152,5 @@ print(f"Horario                    : {datetime.now().strftime('%H:%M:%S')}")
 print("\n" + "=" * 60)
 print("             AUDITORIA FINALIZADA")
 print("=" * 60)
+
+input("clique ENTER para fechar o programa! ")
