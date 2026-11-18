@@ -1,4 +1,4 @@
 @echo off
 chcp 65001 > nul
 title Auditoria do PC
-python "%~dp0auditoria_SO - Copia.py"
+python "%~dp0auditoria_SO.py"
