@@ -2,12 +2,7 @@
 
 Selecione o seu idioma abaixo / Select your language below:
 
-<details open>
-<summary>🇧🇷 <b>Português (Brasil)</b></summary>
-<br>
-Para fazer a inspeção do seu computador, você deverá baixar o arquivo em ZIP e depois extrair ele, e por fim abrir o conteúdo <code>open.bat</code> para fazer a abertura certa do sistema!<br>
-Ele é totalmente seguro sem nenhum tipo de vírus mal intencionado!
-</details>
+
 
 <details>
 <summary>🇵🇹 <b>Português (Portugal)</b></summary>
